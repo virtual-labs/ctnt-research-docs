@@ -1,4 +1,6 @@
-# EDUCATIONAL TECHNOLOGY AND COMPUTING PEDAGOGY VIRTUAL LABS
+# Virtual Labs:Research  Publications 
+
+## EDUCATIONAL TECHNOLOGY AND COMPUTING PEDAGOGY VIRTUAL LABS
 
 - K.C. Bandi, A.K. Nori, V. Choppella, and S. Kode. A virtual laboratory for teaching linux on the web. In IEEE 3rd International Conference on Technology for Education, pages 212--215. IEEE Press, 2011.
 
@@ -30,23 +32,23 @@
 
 - Subhrojyoti Roy Chaudhuri, Amar Banerjee, N. Swaminathan, Venkatesh Choppella, Arpan Pal, and P. Balamurali. A knowledge centric approach to conceptualizing robotic solutions. In Proceedings of the 12th Innovations on Software Engineering Conference (Formerly Known As India Software Engineering Conference), ISEC'19, pages 12:1--12:11, New York, NY, USA, 2019
 
-# AUTHORING TOOLS AND ENVIRONMENTS
+## AUTHORING TOOLS AND ENVIRONMENTS
 - Thulasiram Naidu P, Manisha Verma, Venkatesh Choppella, and Gangadhar Chalapaka. Synthesizing customizable learning environments. In 2nd IEEE International Conference on Technology for Education, July 2010.
 
 - Venkatesh Choppella. Foss, web2.0 and mashups as a natural learning management infrastructure. In IEEE Conf. on Technology for Education, July 2010. Conference tutorial.
 
 - Sankalp Khare, Ishan Misra, and Venkatesh Choppella. Using org-mode and subversion for managing and publishing content in computer science courses. In IEEE 4th International Conference on Technology for Education, pages 220--223. IEEE Press, 2012.
 
-# FUNCTIONAL PROGRAMMING 
+## FUNCTIONAL PROGRAMMING 
 - Venkatesh Choppella, Hitesh Kumar, P. Manjula, and K. Viswanath. From high-school algebra to computing through functional programming. In IEEE 4th International Conference on Technology for Education, pages 180--183. IEEE Press, 2012.
 
 - V. Choppella, G. Ahuja, and A. Mavalankar. How does a program run? a visual model based on annotating abstract syntax trees. In 2016 International Conference on Learning and Teaching in Computing and Engineering (LaTICE), pages 38--42, March 2016.
 
-# ALGORITHMS AND DISCRETE DYNAMICAL SYSTEMS
+## ALGORITHMS AND DISCRETE DYNAMICAL SYSTEMS
 - Venkatesh Choppella, K Viswanath, and P Manjula. Viewing algorithms as iterative systems and plotting their dynamic behaviour. In Proceedings of the IEEE International Conference on Technology for Education (T4E2013), T4E 2013, pages 206--209. IEEE Press, 2013.
 
 - V. Choppella, K. Viswanath and M. Kumar, "Algodynamics: Algorithms as systems," in 2021 IEEE Frontiers in Education Conference (FIE), Lincoln, NE, USA, 2021, pp. 1-9
 
-# ONTOLOGIES
+## ONTOLOGIES
 - Aditi Mavalankar, Tejaswinee Kelkar, and Venkatesh Choppella. Generation of quizzes and solutions based on ontologies -- a case for a music problem generator. In 2015 IEEE Seventh International Conference on Technology for Education (T4E), pages 73--76. IEEE, December 2015.
 
