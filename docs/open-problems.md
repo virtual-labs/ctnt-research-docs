@@ -16,6 +16,7 @@ Virtual Labs is seeking to integrate Generative AI into various aspects of conte
 - Build a metadata repository for all experiments and labs under Virtual Labs. The metadata can be used for search, filtering etc on different Virtual Labs platforms
 - Define and implement a Schema for e-learning content which can be contributed to Schema.org for standardization over the Web
 - Define a domain specific language for specifying a simulation. Implement a framework to convert this specification into code
+- Build an open question repository for Virtual Labs
 
 ## WebAssembly
 - Port the Verilog compiler to WebAssembly
