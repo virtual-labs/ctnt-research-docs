@@ -89,7 +89,7 @@
 - **Method:** Telephonic surveys
 - **Outcome:** By analyzing the results of this study, Virtual Labs can identify the factors that motivate faculty members to use their platform, potentially utilizing this information to further enhance their services.
 
-## MEMORANDUM OF UNDERSTANDING (MoU)
+##  Memorandum Of Understanding (MoU)
 
 **With Telangana Academy for Skill and Knowledge (TASK)**
 - **Signed During:** Virtual Labs Phase II
@@ -104,7 +104,7 @@
 - **Outcome:** Resulted in 65,000 usages of Virtual Labs.
 - **Potential:** This ongoing association has the potential to serve as a benchmark for future outreach initiatives.
 
-## NEW FACILITY: Digital Classroom Enhancement
+## New Facility: Digital Classroom Enhancement
 
 **Addition: NPTEL Class Recording Facility**
 - **Location:** Virtual Labs' Digital Classroom
@@ -115,7 +115,7 @@
 - **Impact:** 
   - Enables Virtual Labs to provide a more comprehensive and engaging learning experience to users.
 
-## SKILL DEVELOPMENT: Remote Internships
+## Skill Development: Remote Internships
 
 **Offered by:** Virtual Labs, IIITH
 - **Program:** Remote internships to college students
