@@ -5,9 +5,9 @@ Virtual Labs is seeking to integrate Generative AI into various aspects of conte
 
 - Identify open-source Large Language Models (LLMs) suitable for fine-tuning for educational purposes.
 - Identify LLMs pertinent to educational contexts through prompt engineering using zero-shot and few shot prompting.
-- Identify and collect data necessary for fine-tuning or prompt engineering.
-- Conduct cost analysis of different types of LLM solutions, including the expenses associated with fine-tuning, deploying the fine-tuned model, and utilizing APIs in the case of closed-source solutions.
-- Build a search bot on top of the Virtual Labs document vector store
+- Identify and collect data necessary for fine-tuning and prompt engineering.
+- Conduct cost and performance analysis of different types of LLM solutions, including the expenses associated with fine-tuning, deploying the fine-tuned model, and utilizing APIs in the case of closed-source API based solutions.
+- Build a GenAI powered search bot on top of the Virtual Labs document vector store
 - Build an automated agent to create social media posts, which can be triggered by various activities of content addition, modification and deployment
 - Build a prompt repository containing standardized set of prompts for different GenAI models to facilitate tasks and  activities like question generation, image generation, blog post generation, document formatting etc.
 
@@ -15,8 +15,8 @@ Virtual Labs is seeking to integrate Generative AI into various aspects of conte
 - Build a knowledge dependency graph for all data structures elements of Virtual Labs. The project will entail defining a hierarchical knowledge graph and building an API to manipulate it.
 - Build a metadata repository for all experiments and labs under Virtual Labs. The metadata can be used for search, filtering etc on different Virtual Labs platforms
 - Define and implement a Schema for e-learning content which can be contributed to Schema.org for standardization over the Web
-- Define a domain specific language for specifying a simulation. Implement a framework to convert this specification into code
-- Build an open question repository for Virtual Labs
+- Define a domain specific language for specifying a Virtual Labs simulation. Implement a framework to convert this specification into code
+- Build an open questions repository for Virtual Labs
 
 ## WebAssembly
 - Port the Verilog compiler to WebAssembly
