@@ -1,6 +1,6 @@
 # Virtual Labs: Research  Publications 
 
-## EDUCATIONAL TECHNOLOGY AND COMPUTING PEDAGOGY VIRTUAL LABS
+## Educational Technology And Computing Pedagogy Virtual Labs
 
 - K.C. Bandi, A.K. Nori, V. Choppella, and S. Kode. A virtual laboratory for teaching linux on the web. In IEEE 3rd International Conference on Technology for Education, pages 212--215. IEEE Press, 2011.
 
