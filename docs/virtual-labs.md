@@ -8,13 +8,13 @@ Among the key groups targeted are students and faculty members of science and en
 The Virtual Labs project also seeks to create a network of researchers across different institutes, who can collaborate and share resources, thereby promoting the exchange of knowledge and ideas. Importantly, the project's content and teaching resources are designed to benefit engineering colleges and other institutions, making it a highly inclusive and impactful initiative.
 
 ## Funding - IIITH (2009-2024)
-
+|----------|---------------|----------------------------------|
 | Phase    | Period        | Sanctioned Budget (INR) in Lakhs |
-|----------|---------------|-----------------------------------|
-| Phase-1  | 2009 - 2013   | 1153.70                           |
-| Phase-2  | 2014 - 2017   | 2183.34                           |
-| Phase-3  | 2018 - 2020   | 113.25                            |
-| Ext-Phase-3 | 2021 - 2026 | 870.72                            |
+|----------|---------------|----------------------------------|
+| Phase-1  | 2009 - 2013   | 1153.70                          |
+| Phase-2  | 2014 - 2017   | 2183.34                          |
+| Phase-3  | 2018 - 2020   | 113.25                           |
+| Ext-Phase-3 | 2021 - 2026 | 870.72                          |
 
 
 ## Virtual Labs Statistics (Jan 2020 - Feb 2024)
