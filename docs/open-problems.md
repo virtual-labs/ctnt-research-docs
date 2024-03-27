@@ -1,4 +1,4 @@
-# Research Projects
+# Virtual Labs - Research Projects
 
 ## Generative AI
 Virtual Labs is seeking to integrate Generative AI into various aspects of content generation, such as summarizing content for users and generating questions based on content. The following series of projects will address different stages of this initiative:
