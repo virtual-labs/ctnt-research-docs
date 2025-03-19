@@ -3,6 +3,7 @@
 ## Generative AI
 Virtual Labs is seeking to integrate Generative AI into various aspects of content generation, such as summarizing content for users and generating questions based on content. The following series of projects will address different stages of this initiative:
 
+1. Build an agentic pipeline for creation of questions on a given topic and integrate it with the National Questions Repository of Virtual Labs
 1. Identify open-source Large Language Models (LLMs) suitable for fine-tuning for educational purposes.
 1. Identify LLMs pertinent to educational contexts through prompt engineering using zero-shot and few shot prompting.
 1. Identify and collect data necessary for fine-tuning and prompt engineering.
@@ -33,6 +34,13 @@ Virtual Labs is seeking to integrate Generative AI into various aspects of conte
 1. Integrate a programming interface to Virtual Labs. The interface should be able to validate the correctness of the code.
 1. Build a progressive web app for Virtual Labs
 1. Build a web based development environment for Virtual Labs
+
+## Systems
+1. Build a debug support agent with help from
+  - Structured incident reports
+  - Vector Document database
+  - GenAI
+1. Build an automated service deployment pipeline given a repository
 
 ## Analytics
 1. Define and implement an analytics system for e-learning content. This project will first define a model of the metrics relevant for e-learning content. Afterwards the model will be implemented as a framework, which can be integrated with any e-learning project.
