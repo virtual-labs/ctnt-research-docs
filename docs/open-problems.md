@@ -43,4 +43,9 @@ Virtual Labs is seeking to integrate Generative AI into various aspects of conte
 1. Build an automated service deployment pipeline given a repository
 
 ## Analytics
-1. Define and implement an analytics system for e-learning content. This project will first define a model of the metrics relevant for e-learning content. Afterwards the model will be implemented as a framework, which can be integrated with any e-learning project.
+1. Define and implement an learning analytics system for e-learning content based on learning theories.  This project will first define a model of the domain-specific metrics relevant for e-learning content.  Afterwards the model will be implemented as a framework, which can be integrated with any e-learning project.
+
+## Field Studies of the Effectiveness of Virtual labs
+1. Design Field Studies to assess the usability and effectiveness of Virtual Labs and carry out design-based research.  Background in Research Methods is a pre-requisite.
+
+ 
